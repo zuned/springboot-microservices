@@ -8,5 +8,7 @@
 
 > [Spring Cloud Config Server -> for centralized configuration](https://spring.io/projects/spring-cloud-config)
 
+> [Consul](https://www.consul.io/)
+
 > [FeinClient -> for service to service communication](https://tech.target.com/2018/12/18/spring-feign.html)
     
